@@ -3,15 +3,21 @@
 This Django project is designed to manage employee data for an office environment. It provides basic CRUD functionality to add, filter, display, and delete employee records.
 
 **Features**
+
 Add Employee: Add new employee details to the system.
+
 Filter Employee: Filter employees based on certain criteria (e.g., department, role).
+
 Show Employee: Display employee details.
+
 Delete Employee: Remove an employee from the system.
 
 **Setup Instructions**
 
 **Prerequisites**
+
 Python (3.x recommended)
+
 Django (3.x recommended)
 
 **Installation**

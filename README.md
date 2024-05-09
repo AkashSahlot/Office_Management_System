@@ -1,4 +1,5 @@
-**Office Management System (Django Project)**
+# **Office Management System (Django Project)**
+
 This Django project is designed to manage employee data for an office environment. It provides basic CRUD functionality to add, filter, display, and delete employee records.
 
 **Features**
@@ -26,7 +27,7 @@ cd Office_Management_System
 
 python3 -m venv .venv
 source .venv/bin/activate  # Activate virtual environment (Linux/macOS)
-# OR
+**or**
 .venv\Scripts\activate  # Activate virtual environment (Windows)
 
 **Install dependencies:**
